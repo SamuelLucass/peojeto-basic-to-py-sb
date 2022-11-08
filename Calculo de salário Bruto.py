@@ -12,7 +12,7 @@ if sb <= 50000:
     print("O seu salário bruto é %i. O seu desconto é %i e o seu salário liquido é %i" % (sb, d, sl))
     exit()
 
-if sb > 50000 
+if sb > 50000:
     td = 0.038
     d = sb * td
     sl = sb - d
