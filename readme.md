@@ -1,0 +1,2 @@
+Programa em python desenvolvido baseado em um livro de basic que estou estudando, desenvolvi esse programa do zero, codificando um programa que era horiginalmente em basic para python. 
+Primeiro projeto 100% deselvolvido por mim :P
